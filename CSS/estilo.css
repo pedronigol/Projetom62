@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: auto;
+    background: #f45E66;
+}
+
+form{
+    background: rgb(115, 183, 209);
+    width: 300px;
+    margin: 200px auto;
+    border-radius: 10px;
+}
+
+form > input{
+    margin: 12px 30px;
+    width: 80%;
+    height: 35px;
+    border-radius: 10px;
+}   
